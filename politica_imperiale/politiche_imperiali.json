@@ -36,8 +36,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 356,
       "y": 106,
       "background": "bg-default",
@@ -1217,21 +1217,21 @@
         {
           "src": "https://ar3d.github.io/politica_imperiale/imperatori/antonino_pio_pencil_ok.png",
           "type": "Image",
-          "x": -1,
-          "y": 129,
+          "x": 4,
+          "y": 186,
           "scale": {
-            "x": 0.42484605757196503,
-            "y": 0.42484605757196503,
-            "width": 531.0575719649563,
-            "height": 531.9072640801002
+            "x": 0.395246057571965,
+            "y": 0.395246057571965,
+            "width": 494.05757196495625,
+            "height": 494.8480640801002
           },
           "imageType": "PNG",
-          "selected": false
+          "selected": true
         },
         {
           "TextBox": {},
-          "x": 537,
-          "y": 395,
+          "x": 552,
+          "y": 398,
           "scale": {
             "x": 1,
             "y": 1
@@ -1243,8 +1243,8 @@
         },
         {
           "TextBox": {},
-          "x": 533,
-          "y": 287,
+          "x": 545,
+          "y": 289,
           "scale": {
             "x": 1,
             "y": 1
@@ -1261,8 +1261,8 @@
       "rotateY": 0,
       "rotateZ": -0.4,
       "index": 27,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 948,
       "y": 596
     },
@@ -1634,45 +1634,56 @@
   "activeSlide": {
     "components": [
       {
-        "TextBox": {},
+        "src": "https://ar3d.github.io/politica_imperiale/imperatori/antonino_pio_pencil_ok.png",
+        "type": "Image",
         "x": 4,
-        "y": 19,
+        "y": 186,
+        "scale": {
+          "x": 0.395246057571965,
+          "y": 0.395246057571965,
+          "width": 494.05757196495625,
+          "height": 494.8480640801002
+        },
+        "imageType": "PNG",
+        "selected": true
+      },
+      {
+        "TextBox": {},
+        "x": 552,
+        "y": 398,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font face=\"Lato\">Scolacium-Squillace</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 545,
+        "y": 289,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
         "size": 64,
-        "text": "<font face=\"Lato\">IL RUOLO DELL'ACQUA\n<br></font>NELLA POLITICA IMPERIALE <br>ROMANA<br>",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/politica_imperiale/immagini/acquedotto.png",
-        "type": "Image",
-        "x": 198,
-        "y": 163,
-        "scale": {
-          "x": 1.0225000000000002,
-          "y": 1.0225000000000002,
-          "width": 818.0000000000001,
-          "height": 595.0950000000001
-        },
-        "imageType": "PNG",
+        "text": "<font face=\"Lato\" color=\"#000000\">ANTONINO PIO</font>",
         "selected": false
       }
     ],
     "z": 0,
-    "impScale": 3,
+    "impScale": 2,
     "rotateX": 0,
     "rotateY": 0,
-    "rotateZ": 0,
-    "index": 0,
+    "rotateZ": -0.4,
+    "index": 27,
     "selected": true,
     "active": true,
-    "x": 356,
-    "y": 106,
-    "background": "bg-default",
-    "surface": "bg-default"
+    "x": 948,
+    "y": 596
   },
   "fileName": "politiche_imperiali",
   "surface": "bg-surf-grad-light",
