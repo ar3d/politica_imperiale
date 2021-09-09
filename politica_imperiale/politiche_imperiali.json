@@ -1217,13 +1217,13 @@
         {
           "src": "https://ar3d.github.io/politica_imperiale/imperatori/antonino_pio_pencil_ok.png",
           "type": "Image",
-          "x": 5,
-          "y": -10,
+          "x": 14,
+          "y": 141,
           "scale": {
-            "x": 0.591246057571965,
-            "y": 0.591246057571965,
-            "width": 739.0575719649563,
-            "height": 740.2400640801002
+            "x": 0.449646057571965,
+            "y": 0.449646057571965,
+            "width": 562.0575719649563,
+            "height": 562.9568640801002
           },
           "imageType": "PNG",
           "selected": false
@@ -1526,13 +1526,13 @@
         {
           "src": "https://ar3d.github.io/politica_imperiale/imperatori/antonino_pio_pencil_ok.png",
           "type": "Image",
-          "x": 8,
-          "y": 12,
+          "x": 14,
+          "y": 173,
           "scale": {
-            "x": 0.5830468085106383,
-            "y": 0.5830468085106383,
-            "width": 728.8085106382979,
-            "height": 729.9746042553192
+            "x": 0.43424680851063824,
+            "y": 0.43424680851063824,
+            "width": 542.8085106382978,
+            "height": 543.677004255319
           },
           "imageType": "PNG",
           "selected": false
