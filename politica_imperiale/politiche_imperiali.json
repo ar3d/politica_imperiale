@@ -36,8 +36,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 356,
       "y": 106,
       "background": "bg-default",
@@ -949,8 +949,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 21,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 269,
       "y": 399
     },
@@ -1217,34 +1217,21 @@
         {
           "src": "https://ar3d.github.io/politica_imperiale/imperatori/antonino_pio_pencil_ok.png",
           "type": "Image",
-          "x": 10,
-          "y": -32,
+          "x": 5,
+          "y": -10,
           "scale": {
-            "x": 0.605646057571965,
-            "y": 0.605646057571965,
-            "width": 757.0575719649562,
-            "height": 758.2688640801001
+            "x": 0.591246057571965,
+            "y": 0.591246057571965,
+            "width": 739.0575719649563,
+            "height": 740.2400640801002
           },
           "imageType": "PNG",
           "selected": false
         },
         {
           "TextBox": {},
-          "x": 551,
-          "y": 292,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 64,
-          "text": "<font face=\"Lato\">ANTONINO PIO</font><br>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 550,
-          "y": 394,
+          "x": 537,
+          "y": 395,
           "scale": {
             "x": 1,
             "y": 1
@@ -1252,6 +1239,19 @@
           "type": "TextBox",
           "size": 36,
           "text": "<font face=\"Lato\">Scolacium-Squillace</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 533,
+          "y": 287,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">ANTONINO PIO</font>",
           "selected": false
         }
       ],
@@ -1526,34 +1526,21 @@
         {
           "src": "https://ar3d.github.io/politica_imperiale/imperatori/antonino_pio_pencil_ok.png",
           "type": "Image",
-          "x": 13,
-          "y": -3,
+          "x": 8,
+          "y": 12,
           "scale": {
-            "x": 0.5950468085106383,
-            "y": 0.5950468085106383,
-            "width": 743.8085106382979,
-            "height": 744.9986042553192
+            "x": 0.5830468085106383,
+            "y": 0.5830468085106383,
+            "width": 728.8085106382979,
+            "height": 729.9746042553192
           },
           "imageType": "PNG",
           "selected": false
         },
         {
           "TextBox": {},
-          "x": 558,
-          "y": 291,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 64,
-          "text": "<font face=\"Lato\">ANTONINO PIO</font><br>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 555,
-          "y": 393,
+          "x": 531,
+          "y": 401,
           "scale": {
             "x": 1,
             "y": 1
@@ -1561,6 +1548,19 @@
           "type": "TextBox",
           "size": 36,
           "text": "<font face=\"Lato\">Antium-Anzio</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 526,
+          "y": 297,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">ANTONINO PIO</font>",
           "selected": false
         }
       ],
@@ -1635,134 +1635,44 @@
     "components": [
       {
         "TextBox": {},
-        "x": 14,
-        "y": 22,
+        "x": 4,
+        "y": 19,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
         "size": 64,
-        "text": "<font face=\"Lato\">Gli acquedotti romani <br>sul territorio delle <br>regioni italiche</font>",
+        "text": "<font face=\"Lato\">IL RUOLO DELL'ACQUA\n<br></font>NELLA POLITICA IMPERIALE <br>ROMANA<br>",
         "selected": false
       },
       {
-        "src": "https://ar3d.github.io/politica_imperiale/immagini/cantiere.png",
+        "src": "https://ar3d.github.io/politica_imperiale/immagini/acquedotto.png",
         "type": "Image",
-        "x": 605,
-        "y": 3,
+        "x": 198,
+        "y": 163,
         "scale": {
-          "x": 0.7071005917159763,
-          "y": 0.7071005917159763,
-          "width": 477.99999999999994,
-          "height": 429.9171597633136
-        },
-        "imageType": "PNG",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 13,
-        "y": 259,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 64,
-        "text": "<font face=\"Lato\">138 Acquedotti</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 291,
-        "y": 542,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<font face=\"Lato\" color=\"#000000\">18</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 460,
-        "y": 552,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<font face=\"Lato\" color=\"#000000\">27</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 587,
-        "y": 434,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<font face=\"Lato\" color=\"#000000\">42</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 458,
-        "y": 355,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<font face=\"Lato\" color=\"#000000\">7</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 245,
-        "y": 411,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<font face=\"Lato\" color=\"#000000\">44<br></font>",
-        "selected": false
-      },
-      {
-        "src": "https://ar3d.github.io/politica_imperiale/immagini/grafico_1.png",
-        "type": "Image",
-        "x": 139,
-        "y": 311,
-        "scale": {
-          "x": 0.3845454545454545,
-          "y": 0.3845454545454545,
-          "width": 846,
-          "height": 439.15090909090907
+          "x": 1.0225000000000002,
+          "y": 1.0225000000000002,
+          "width": 818.0000000000001,
+          "height": 595.0950000000001
         },
         "imageType": "PNG",
         "selected": false
       }
     ],
     "z": 0,
-    "impScale": 1,
+    "impScale": 3,
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 21,
+    "index": 0,
     "selected": true,
     "active": true,
-    "x": 269,
-    "y": 399
+    "x": 356,
+    "y": 106,
+    "background": "bg-default",
+    "surface": "bg-default"
   },
   "fileName": "politiche_imperiali",
   "surface": "bg-surf-grad-light",
