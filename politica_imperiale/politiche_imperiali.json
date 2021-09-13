@@ -36,8 +36,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 356,
       "y": 106,
       "background": "bg-default",
@@ -115,13 +115,13 @@
         {
           "src": "https://ar3d.github.io/politica_imperiale/immagini/gladiatori.png",
           "type": "Image",
-          "x": -113,
-          "y": 68,
+          "x": -5,
+          "y": 7,
           "scale": {
-            "x": 0.5176546812135271,
-            "y": 0.5176546812135271,
-            "width": 607.7265957446808,
-            "height": 388.2410109101453
+            "x": 0.4699545108557758,
+            "y": 0.4699545108557758,
+            "width": 551.7265957446807,
+            "height": 352.46588314183185
           },
           "imageType": "PNG",
           "selected": false
@@ -129,21 +129,21 @@
         {
           "src": "https://ar3d.github.io/politica_imperiale/immagini/pane.png",
           "type": "Image",
-          "x": 509,
-          "y": 182,
+          "x": 550,
+          "y": 207,
           "scale": {
-            "x": 0.5620915032679739,
-            "y": 0.5620915032679739,
-            "width": 516,
-            "height": 575.5816993464052
+            "x": 0.5163398692810457,
+            "y": 0.5163398692810457,
+            "width": 473.99999999999994,
+            "height": 528.7320261437908
           },
           "imageType": "PNG",
           "selected": false
         },
         {
           "TextBox": {},
-          "x": 508,
-          "y": 61,
+          "x": 20,
+          "y": 400,
           "scale": {
             "x": 1,
             "y": 1
@@ -155,15 +155,15 @@
         },
         {
           "TextBox": {},
-          "x": 54,
-          "y": 492,
+          "x": 18,
+          "y": 481,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">lo storico <br>Christer Bruun\n<br></font>aggiunge <br>un terzo elemento<br>",
+          "text": "<font face=\"Lato\">lo storico <br>Christer Bruun\n<br></font>aggiunge <br>un terzo elemento...<br>",
           "selected": false
         }
       ],
@@ -475,7 +475,7 @@
           },
           "type": "TextBox",
           "size": 36,
-          "text": "<font face=\"Lato\">Ma in relazione alla <br>costruzione di acquedotti <br>quale fu il rapporto tra <br>il potere imperiale e <br>i territori delle Regio italiche?</font><br>",
+          "text": "<font face=\"Lato\">Ma in relazione alla <br>costruzione di acquedotti <br>quale fu il rapporto tra <br>il potere imperiale e <br>i territori delle regioni italiche?</font><br>",
           "selected": false
         },
         {
@@ -865,8 +865,8 @@
         },
         {
           "TextBox": {},
-          "x": 291,
-          "y": 542,
+          "x": 488,
+          "y": 606,
           "scale": {
             "x": 1,
             "y": 1
@@ -878,8 +878,8 @@
         },
         {
           "TextBox": {},
-          "x": 460,
-          "y": 552,
+          "x": 618,
+          "y": 527,
           "scale": {
             "x": 1,
             "y": 1
@@ -891,8 +891,8 @@
         },
         {
           "TextBox": {},
-          "x": 587,
-          "y": 434,
+          "x": 840,
+          "y": 450,
           "scale": {
             "x": 1,
             "y": 1
@@ -904,8 +904,8 @@
         },
         {
           "TextBox": {},
-          "x": 458,
-          "y": 355,
+          "x": 323,
+          "y": 374,
           "scale": {
             "x": 1,
             "y": 1
@@ -917,8 +917,8 @@
         },
         {
           "TextBox": {},
-          "x": 245,
-          "y": 411,
+          "x": 859,
+          "y": 681,
           "scale": {
             "x": 1,
             "y": 1
@@ -929,15 +929,15 @@
           "selected": false
         },
         {
-          "src": "https://ar3d.github.io/politica_imperiale/immagini/grafico_1.png",
+          "src": "https://ar3d.github.io/politica_imperiale/immagini/grafico_3.png",
           "type": "Image",
-          "x": 139,
-          "y": 311,
+          "x": -1,
+          "y": 307,
           "scale": {
-            "x": 0.3845454545454545,
-            "y": 0.3845454545454545,
-            "width": 846,
-            "height": 439.15090909090907
+            "x": 0.28405797101449276,
+            "y": 0.28405797101449276,
+            "width": 882,
+            "height": 479.4898550724638
           },
           "imageType": "PNG",
           "selected": false
@@ -1035,7 +1035,7 @@
           },
           "type": "TextBox",
           "size": 36,
-          "text": "<font face=\"Lato\">Augusta Praetoria Salassorum-Aosta\n<br></font>Bonomia-Bologna\n<br>Brixia-Brescia\n<br>Caere-Cerveteri\n<br>Lucus Feroniae-Capena\n<br>Minturnae-Minturno\n<br>Pontia-Ponza\n<br>Campania Felix-Acquedotto del Serino\n<br>Venafrum-Venafro<br>",
+          "text": "<font face=\"Lato\">Augusta Praetoria Salassorum-Aosta\n<br></font>Bononia-Bologna\n<br>Brixia-Brescia\n<br>Caere-Cerveteri\n<br>Lucus Feroniae-Capena\n<br>Minturnae-Minturno\n<br>Pontia-Ponza\n<br>Campania Felix-Acquedotto del Serino\n<br>Venafrum-Venafro<br>",
           "selected": false
         }
       ],
@@ -1226,7 +1226,7 @@
             "height": 494.8480640801002
           },
           "imageType": "PNG",
-          "selected": true
+          "selected": false
         },
         {
           "TextBox": {},
@@ -1261,8 +1261,8 @@
       "rotateY": 0,
       "rotateZ": -0.4,
       "index": 27,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 948,
       "y": 596
     },
@@ -1634,56 +1634,45 @@
   "activeSlide": {
     "components": [
       {
-        "src": "https://ar3d.github.io/politica_imperiale/imperatori/antonino_pio_pencil_ok.png",
-        "type": "Image",
+        "TextBox": {},
         "x": 4,
-        "y": 186,
-        "scale": {
-          "x": 0.395246057571965,
-          "y": 0.395246057571965,
-          "width": 494.05757196495625,
-          "height": 494.8480640801002
-        },
-        "imageType": "PNG",
-        "selected": true
-      },
-      {
-        "TextBox": {},
-        "x": 552,
-        "y": 398,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 36,
-        "text": "<font face=\"Lato\">Scolacium-Squillace</font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 545,
-        "y": 289,
+        "y": 19,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
         "size": 64,
-        "text": "<font face=\"Lato\" color=\"#000000\">ANTONINO PIO</font>",
+        "text": "<font face=\"Lato\">IL RUOLO DELL'ACQUA\n<br></font>NELLA POLITICA IMPERIALE <br>ROMANA<br>",
+        "selected": false
+      },
+      {
+        "src": "https://ar3d.github.io/politica_imperiale/immagini/acquedotto.png",
+        "type": "Image",
+        "x": 198,
+        "y": 163,
+        "scale": {
+          "x": 1.0225000000000002,
+          "y": 1.0225000000000002,
+          "width": 818.0000000000001,
+          "height": 595.0950000000001
+        },
+        "imageType": "PNG",
         "selected": false
       }
     ],
     "z": 0,
-    "impScale": 2,
+    "impScale": 3,
     "rotateX": 0,
     "rotateY": 0,
-    "rotateZ": -0.4,
-    "index": 27,
+    "rotateZ": 0,
+    "index": 0,
     "selected": true,
     "active": true,
-    "x": 948,
-    "y": 596
+    "x": 356,
+    "y": 106,
+    "background": "bg-default",
+    "surface": "bg-default"
   },
   "fileName": "politiche_imperiali",
   "surface": "bg-surf-grad-light",
