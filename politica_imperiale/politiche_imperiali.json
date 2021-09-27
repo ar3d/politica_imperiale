@@ -36,8 +36,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 356,
       "y": 106,
       "background": "bg-default",
@@ -865,8 +865,8 @@
         },
         {
           "TextBox": {},
-          "x": 488,
-          "y": 606,
+          "x": 578,
+          "y": 607,
           "scale": {
             "x": 1,
             "y": 1
@@ -878,21 +878,8 @@
         },
         {
           "TextBox": {},
-          "x": 618,
-          "y": 527,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "size": 36,
-          "text": "<font face=\"Lato\" color=\"#000000\">27</font>",
-          "selected": false
-        },
-        {
-          "TextBox": {},
-          "x": 840,
-          "y": 450,
+          "x": 933,
+          "y": 455,
           "scale": {
             "x": 1,
             "y": 1
@@ -904,8 +891,8 @@
         },
         {
           "TextBox": {},
-          "x": 323,
-          "y": 374,
+          "x": 419,
+          "y": 375,
           "scale": {
             "x": 1,
             "y": 1
@@ -917,8 +904,8 @@
         },
         {
           "TextBox": {},
-          "x": 859,
-          "y": 681,
+          "x": 962,
+          "y": 688,
           "scale": {
             "x": 1,
             "y": 1
@@ -931,8 +918,8 @@
         {
           "src": "https://ar3d.github.io/politica_imperiale/immagini/grafico_3.png",
           "type": "Image",
-          "x": -1,
-          "y": 307,
+          "x": 5,
+          "y": 310,
           "scale": {
             "x": 0.28405797101449276,
             "y": 0.28405797101449276,
@@ -940,7 +927,7 @@
             "height": 479.4898550724638
           },
           "imageType": "PNG",
-          "selected": false
+          "selected": true
         }
       ],
       "z": 0,
@@ -949,8 +936,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 21,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 269,
       "y": 399
     },
@@ -1635,51 +1622,126 @@
     "components": [
       {
         "TextBox": {},
-        "x": 4,
-        "y": 19,
+        "x": 14,
+        "y": 22,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
         "size": 64,
-        "text": "<font face=\"Lato\">IL RUOLO DELL'ACQUA\n<br></font>NELLA POLITICA IMPERIALE <br>ROMANA<br>",
+        "text": "<font face=\"Lato\">Gli acquedotti romani <br>sul territorio delle <br>regioni italiche</font>",
         "selected": false
       },
       {
-        "src": "https://ar3d.github.io/politica_imperiale/immagini/acquedotto.png",
+        "src": "https://ar3d.github.io/politica_imperiale/immagini/cantiere.png",
         "type": "Image",
-        "x": 198,
-        "y": 163,
+        "x": 605,
+        "y": 3,
         "scale": {
-          "x": 1.0225000000000002,
-          "y": 1.0225000000000002,
-          "width": 818.0000000000001,
-          "height": 595.0950000000001
+          "x": 0.7071005917159763,
+          "y": 0.7071005917159763,
+          "width": 477.99999999999994,
+          "height": 429.9171597633136
         },
         "imageType": "PNG",
         "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 13,
+        "y": 259,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<font face=\"Lato\">138 Acquedotti</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 578,
+        "y": 607,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font face=\"Lato\" color=\"#000000\">18</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 933,
+        "y": 455,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font face=\"Lato\" color=\"#000000\">42</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 419,
+        "y": 375,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font face=\"Lato\" color=\"#000000\">7</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 962,
+        "y": 688,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font face=\"Lato\" color=\"#000000\">44<br></font>",
+        "selected": false
+      },
+      {
+        "src": "https://ar3d.github.io/politica_imperiale/immagini/grafico_3.png",
+        "type": "Image",
+        "x": 5,
+        "y": 310,
+        "scale": {
+          "x": 0.28405797101449276,
+          "y": 0.28405797101449276,
+          "width": 882,
+          "height": 479.4898550724638
+        },
+        "imageType": "PNG",
+        "selected": true
       }
     ],
     "z": 0,
-    "impScale": 3,
+    "impScale": 1,
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 0,
+    "index": 21,
     "selected": true,
     "active": true,
-    "x": 356,
-    "y": 106,
-    "background": "bg-default",
-    "surface": "bg-default"
+    "x": 269,
+    "y": 399
   },
   "fileName": "politiche_imperiali",
   "surface": "bg-surf-grad-light",
   "deckVersion": "1.0",
   "customBackgrounds": {
     "bgs": []
-  },
-  "overviewX": 732.5,
-  "overviewY": 334.5
+  }
 }
